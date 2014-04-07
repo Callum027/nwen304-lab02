@@ -1,0 +1,26 @@
+{
+  "name": "lab2",
+  "version": "0.0.0",
+  "description": "this is project 2",
+  "main": "web.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Callum027/nwen304-lab02.git"
+  },
+  "keywords": [
+    "project"
+  ],
+  "author": "callum",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Callum027/nwen304-lab02/issues"
+  },
+  "homepage": "https://github.com/Callum027/nwen304-lab02",
+  "dependencies": {
+    "logfmt": "^1.1.2",
+    "express": "^3.5.1"
+  }
+}
